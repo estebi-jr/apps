@@ -1,0 +1,9 @@
+:HL["/apps/_next/static/chunks/13yqmbe6i2c04.css","style"]
+:HL["/apps/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/apps/logo.svg","image"]
+:HL["/apps/apps/ojala.webp","image"]
+:HL["/apps/apps/nota-7.webp","image"]
+:HL["/apps/apps/pendientes.webp","image"]
+:HL["/apps/apps/dear-of-heights.webp","image"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"iq2xbS_Y1g-mQRzjF1EAV","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
